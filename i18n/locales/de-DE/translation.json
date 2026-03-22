@@ -1,0 +1,200 @@
+{
+  "appName": "Ship Mobile Fast",
+  "language": "Sprache",
+  "success": "Erfolgreich",
+  "error": "Fehler",
+  "loading": "Wird geladen...",
+  "notFound": "Ups! Seite nicht gefunden",
+  "buttons": {
+    "delete": "Löschen",
+    "cancel": "Abbrechen",
+    "okay": "Okay",
+    "logout": "Abmelden",
+    "getStarted": "Starten",
+    "next": "Weiter",
+    "send": "Senden",
+    "back": "Zurück",
+    "try": "Versuchen",
+    "getAccess": "Zugang erhalten",
+    "continue": "Fortfahren",
+    "goToHomeScreen": "Zur Startseite"
+  },
+  "placeholders": {
+    "email": "Ihre E-Mail-Adresse",
+    "password": "Ihr Passwort",
+    "confirmPassword": "Passwort bestätigen",
+    "search": "Suchen Sie etwas"
+  },
+  "header": {
+    "home": "Startseite",
+    "search": "Suche",
+    "notifications": "Benachrichtigungen",
+    "profile": "Profil",
+    "settings": "Einstellungen",
+    "language": "Spracheinstellungen",
+    "theme": "Design-Einstellungen",
+    "privacy": "Datenschutzrichtlinie",
+    "help": "Hilfe",
+    "logout": "Abmelden",
+    "deleteAccount": "Konto löschen"
+  },
+  "onboarding": {
+    "title1": "Hey! Willkommen bei Ship Mobile Fast.",
+    "desc1": "Sparen Sie sich hunderte Stunden Programmierarbeit\nund erstellen Sie Ihre App in nur wenigen Tagen.",
+    "title2": "Alles ist schon vorbereitet!",
+    "desc2": "Authentifizierung, Onboarding, In-App-Käufe, Sentry, Posthog, Google Admob, Benachrichtigungen, Mehrsprachigkeit, Designs, Premium-Bildschirme und vieles mehr.",
+    "title3": "Vollständig anpassbar",
+    "desc3": "Wir haben die App aus vollständig anpassbaren Komponenten erstellt, sodass Sie die Benutzeroberfläche, Komponenten und mehr ganz einfach ändern können.",
+    "title4": "Sind Sie bereit?",
+    "desc4": "Denn wir haben uns um all die langweiligen Dinge gekümmert. Sie müssen nur noch Spaß haben.",
+    "title5": "Worauf warten Sie also noch?",
+    "desc5": "Legen Sie los und beginnen Sie, mit Ihrer App Geld zu verdienen!"
+  },
+  "auth": {
+    "signInWithEmail": "Mit E-Mail anmelden",
+    "termsOfService": "Durch die Erstellung eines Kontos stimmen Sie unseren Nutzungsbedingungen und Datenschutzrichtlinien zu.",
+    "forgotPassword": "Passwort vergessen?",
+    "signIn": "Anmelden",
+    "signUp": "Konto erstellen",
+    "continueWithApple": "Mit Apple fortfahren",
+    "continueWithGoogle": "Mit Google fortfahren",
+    "continueWithEmail": "Mit E-Mail fortfahren",
+    "alreadyHaveAccount": "Sie haben bereits ein Konto?",
+    "enterEmailToResetPassword": "Geben Sie Ihre E-Mail-Adresse ein, um Ihr Passwort zurückzusetzen",
+    "pleaseEnterEmail": "Bitte geben Sie Ihre E-Mail-Adresse ein",
+    "magicLinkSent": "Magischer Link gesendet",
+    "backToLogin": "Zurück zur Anmeldung",
+    "emailPlaceholder": "Ihre E-Mail-Adresse",
+    "passwordPlaceholder": "Ihr Passwort",
+    "confirmPasswordPlaceholder": "Passwort bestätigen",
+    "continueWith": "Fortfahren mit",
+    "or": "oder",
+    "dontHaveAccount": "Sie haben noch kein Konto?",
+    "email": "E-Mail",
+    "password": "Passwort",
+    "emailRequired": "E-Mail erforderlich",
+    "invalidEmail": "Ungültige E-Mail-Adresse",
+    "passwordRequired": "Passwort erforderlich",
+    "passwordMinLength": "Das Passwort muss mindestens 6 Zeichen lang sein",
+    "sendingEmail": "E-Mail wird gesendet...",
+    "signingOut": "Wird abgemeldet...",
+    "signingUp": "Konto wird erstellt...",
+    "signingIn": "Anmeldung läuft...",
+    "signingInWithGoogle": "Anmeldung mit Google...",
+    "signingInWithApple": "Anmeldung mit Apple...",
+    "sendMagicLink": "Magischen Link verschicken",
+    "sendPasswordReset": "Link zum Zurücksetzen des Passworts senden",
+    "enterNewPassword": "Neues Passwort eingeben",
+    "verifying": "Wird verifiziert...",
+    "sendingResetPasswordLink": "Link zum Zurücksetzen des Passworts wird gesendet...",
+    "resetPassword": "Passwort zurücksetzen",
+    "pleaseCheckYourEmail": "Bitte überprüfen Sie Ihre E-Mails, vergessen Sie nicht den Spam-Ordner.",
+    "settingNewPassword": "Neues Passwort wird festgelegt..."
+  },
+  "profile": {
+    "editProfile": "Profil bearbeiten",
+    "subscription": "Abonnement",
+    "notifications": "Benachrichtigungen",
+    "help": "Hilfe",
+    "settings": "Einstellungen",
+    "theme": "Design"
+  },
+  "inAppPurchases": {
+    "title": "Probieren Sie Ship Mobile Fast Pro",
+    "subtitle": "Mehr Nachrichten auf unserem leistungsstärksten Modell mit Premium-Funktionen",
+    "info": "Läuft automatisch weiter für {{price}} pro {{period}}. Kannst jederzeit stornieren. Kriegst dein Geld 7 Tage zurück, ist safe.",
+    "lifetime-info": "Läuft automatisch weiter für {{price}} pro {{period}}. Kannst jederzeit stornieren. Kriegst dein Geld 7 Tage zurück, ist safe.",
+    "cards": {
+      "feature1": {
+        "title": "Feature Title 1",
+        "description": "Feature Description 1"
+      },
+      "feature2": {
+        "title": "Feature Title 2",
+        "description": "Feature Description 2"
+      },
+      "feature3": {
+        "title": "Feature Title 3",
+        "description": "Feature Description 3"
+      },
+      "feature4": {
+        "title": "Feature Title 4",
+        "description": "Feature Description 4"
+      },
+      "feature5": {
+        "title": "Feature Title 5",
+        "description": "Feature Description 5"
+      }
+    }
+  },
+  "settings": {
+    "titles": {
+      "privacy": "Datenschutz",
+      "help": "Hilfe",
+      "notifications": "Benachrichtigungen",
+      "language": "Sprache",
+      "theme": "Design",
+      "logout": "Abmelden",
+      "deleteAccount": "Konto löschen"
+    },
+    "theme": {
+      "light": "Hell",
+      "dark": "Dunkel",
+      "system": "System"
+    },
+    "help": {
+      "title": "Hilfe",
+      "description": "Nachfolgend finden Sie häufig gestellte Fragen und Support-Informationen.",
+      "contactSupport": "Kontaktieren Sie uns für Unterstützung",
+      "faqs": [
+        {
+          "question": "Wie benutze ich die App?",
+          "answer": "Um die App zu benutzen, können Sie auf dem Hauptbildschirm beginnen..."
+        },
+        {
+          "question": "Wie setze ich mein Passwort zurück?",
+          "answer": "Um Ihr Passwort zurückzusetzen, klicken Sie auf die Option 'Passwort vergessen'..."
+        },
+        {
+          "question": "Wie erhalte ich Benachrichtigungen?",
+          "answer": "Um Benachrichtigungen zu erhalten, klicken Sie auf die Option 'Benachrichtigungen'..."
+        }
+      ]
+    },
+    "notifications": {
+      "pushToken": "Push-Token",
+      "receivedNotifications": "Erhaltene Benachrichtigungen",
+      "noNotifications": "Noch keine Benachrichtigungen"
+    },
+    "deleteAccount": {
+      "title": "Konto löschen",
+      "subtitle": "Sind Sie sicher, dass Sie Ihr Konto löschen möchten?",
+      "delete": "Löschen",
+      "deleteButton": "Konto löschen",
+      "reasons": {
+        "privacy": "Datenschutz",
+        "dissatisfaction": "Unzufriedenheit",
+        "tooManyAds": "Zu viele Werbeanzeigen",
+        "competition": "Wettbewerb",
+        "tooManyNotifications": "Zu viele Benachrichtigungen",
+        "tooExpensive": "Zu teuer",
+        "other": "Sonstiges"
+      },
+      "deleteDialog": {
+        "title": "Sind Sie sicher, dass Sie Ihr Konto löschen möchten?",
+        "description": "Diese Aktion kann nicht rückgängig gemacht werden. Ihr Konto wird dauerhaft gelöscht und kann nicht wiederhergestellt werden.",
+        "confirmDeleteAccount": "Bitte bestätigen Sie die Löschung Ihres Kontos."
+      }
+    }
+  },
+  "home": {
+    "admob": "Admob (Google)",
+    "inAppPurchases": "In-App-Käufe",
+    "socialSharing": "Soziales Teilen",
+    "settings": "Einstellungen",
+    "languages": "Sprachen",
+    "notifications": "Benachrichtigungen",
+    "theme": "Design",
+    "language": "Sprache +4"
+  }
+}
