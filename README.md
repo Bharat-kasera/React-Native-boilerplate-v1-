@@ -1,5 +1,3 @@
-# Ship Mobile Fast Pro Boilerplate
-
 A production-ready React Native boilerplate with Expo, focusing on best practices, performance, and developer experience.
 
 ## 🚀 Quick Start
@@ -107,15 +105,3 @@ Supported languages:
 - Turkish (tr-TR)
 - German (de-DE)
 - Spanish (es-ES)
-
-## 📝 License
-
-This project is licensed under the [ShipMobileFast License](https://shipmobilefast.com/license), see the [LICENSE](https://shipmobilefast.com/license) file for details.
-
-## 📫 Support
-
-For support, email [info@shipmobilefast.com](mailto:info@shipmobilefast.com)
-
----
-
-Built with ❤️ by [ShipMobileFast](https://shipmobilefast.com)
