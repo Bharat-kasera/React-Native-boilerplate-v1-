@@ -27,16 +27,11 @@ npm run start
 - iOS Simulator / Android Emulator for mobile development
 - Git
 
-## 📚 Documentation
-
-For detailed documentation, visit [docs.shipmobilefast.com](https://docs.shipmobilefast.com)
-
 ## 🎨 Assets Generation
-
 ### App Icons & Splash Screen
 
-Generate your app icons and splash screen easily using our online tool:
-[shipmobilefast.com/asset-generator](https://shipmobilefast.com/asset-generator)
+Generate your app icons and splash screen easily using  online tool:
+[asset-generator](https://shipmobilefast.com/asset-generator)
 
 ## 🛠 Features
 
